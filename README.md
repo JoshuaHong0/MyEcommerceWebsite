@@ -1,2 +1,2 @@
 # MyEcommerceWebsite
-The implemention of a Ecommerce website
+The implemention of an Ecommerce website
