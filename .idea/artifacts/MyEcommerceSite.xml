@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyEcommerceSite">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyEcommerceSite</output-path>
+    <root id="archive" name="MyEcommerceSite.war">
+      <element id="javaee-facet-resources" facet="MyEcommerceSite/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyEcommerceSite" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+          <element id="library" level="project" name="jstl" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
